@@ -153,7 +153,7 @@ const StyledTabContent = styled.div`
   }
 `;
 
-const Jobs = () => {
+const Upcoming = () => {
   const data = useStaticQuery(graphql`
     query {
       jobs: allMarkdownRemark(
@@ -219,7 +219,7 @@ const Jobs = () => {
   };
 
   return (
-    <StyledJobsSection id="jobs" ref={revealContainer}>
+    <StyledJobsSection id="upcoming" ref={revealContainer}>
       <h2 className="numbered-heading">Upcoming Events</h2>
 
       <div className="inner">
@@ -282,4 +282,4 @@ const Jobs = () => {
   );
 };
 
-export default Jobs;
+export default Upcoming;

@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'acm@pccoer.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/PCCOER-ACM-Student-Chapter',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/acmpccoer',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/acmpccoer',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/company/pccoer-acm-student-chapter',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Discord',
+      url: 'https://linktr.ee/acmpccoer',
     },
   ],
 
@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       name: 'Upcoming Events',
-      url: '/#jobs',
+      url: '/#upcoming',
     },
     {
       name: 'Previous Events',

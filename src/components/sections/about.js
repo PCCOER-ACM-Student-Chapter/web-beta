@@ -153,7 +153,7 @@ const About = () => {
               Shortly after graduating from{' '}
               <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
               engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              on a wide variety of interesting and meaningful events on a daily basis.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
