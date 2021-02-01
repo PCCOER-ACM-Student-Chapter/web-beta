@@ -47,13 +47,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hi, we are</h1>;
+  const two = <h2 className="big-heading">PCCOERxACM.</h2>;
+  const three = <h3 className="big-heading">Be Innovative • Be Different</h3>;
   const four = (
     <p>
-      I'm a software engineer based in Boston, MA specializing in building (and occasionally
-      designing) exceptional websites, applications, and everything in between.
+      We're a Student Chapter run by the core belief to support and uplift the community in Advance
+      Computing.
     </p>
   );
   const five = (

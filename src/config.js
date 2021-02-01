@@ -30,11 +30,11 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Upcoming Events',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Previous Events',
       url: '/#projects',
     },
     {
@@ -42,9 +42,9 @@ module.exports = {
       url: '/#contact',
     },
   ],
-
+  // Green here is actually acm blue
   colors: {
-    green: '#64ffda',
+    green: '#25a4e6',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },

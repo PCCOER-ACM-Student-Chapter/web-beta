@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "PCCOERxACM",
+  "description": "Website for PCCOER's ACM Student Chapter",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "PCCOERxACM Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/PCCOER-ACM-Student-Chapter/web-beta"
   },
   "keywords": [
     "gatsby"
